@@ -37,8 +37,9 @@ heading: U.S. Department of Justice
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: assets/img/doj.png/
+  - src: https://raw.githubusercontent.com/18F/ada-sandbox/main/assets/img/doj.png
     alt: U.S. Department of Justice Seal
+    external: true
 
 # Configuration for footer contact links
 contact:

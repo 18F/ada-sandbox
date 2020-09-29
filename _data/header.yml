@@ -21,7 +21,7 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: /assets/img/ada-logo.svg/
+  src: https://raw.githubusercontent.com/18F/ada-sandbox/main/assets/img/ada-logo.svg
   alt: ADA
   external: true
 
