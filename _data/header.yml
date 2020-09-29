@@ -21,8 +21,8 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: /assets/img/ada-logo.svg/
-  alt: 18F
+  src: "{{ site.baseurl }}/assets/img/ada-logo.svg/"
+  alt: ADA
   external: true
 
 # this is a key into _data/navigation.yml
