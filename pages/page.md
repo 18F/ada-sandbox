@@ -46,7 +46,7 @@ The purpose of the sections below is to help people with disabilities, businesse
 
 ## Service animals are
 
-<ul class="icon-list">
+<ul class="icon-list" aria-labeledby="service-animals-are">
   <li>{% include yes.html %} Dogs.</li>
   <li>{% include yes.html %} Any breed and any size of dog.</li>
   <li>{% include yes.html %} Trained to perform a task related to a person’s disability.</li>
