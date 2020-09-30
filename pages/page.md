@@ -106,7 +106,7 @@ If you are working at a business or state or local government facility and it is
   <li>{% include yes.html %} What work or task has the dog been trained to perform?</li>
 </ul>
 
-You are **not** allowed to:
+### You are *not* allowed to:
 <ul style="list-style: none;">
   <li>{% include no.html %} Request any documentation that the dog is registered, licensed, or certified as a service animal.</li>
 </ul>
