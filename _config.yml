@@ -5,7 +5,7 @@ description: This is the site description.
 # This is used for adding an edit this page link to the footer
 github_info:
   organization: 18F
-  repository: ada-sndbox
+  repository: ada-sandbox
   default_branch: main
 
 # Configuration for setting the site width to 100%
