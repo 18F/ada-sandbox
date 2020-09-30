@@ -1,0 +1,12 @@
+.icon-list {
+	list-style: none;
+	padding-left: 2ch;
+
+	li {
+		margin-left: 26px;
+		text-indent: -26px;
+	}
+}
+.usa-prose .icon-list li {
+	margin-bottom: .5em;
+}
