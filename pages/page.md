@@ -15,10 +15,6 @@ subnav:
     href: '#examples-of-service-animal-tasks'
   - text: Where service animals can go
     href: '#where-service-animals-can-go'
-  - text: Housing
-    href: '#housing'
-  - text: Airplanes
-    href: '#airplanes'
   - text: Asking if a dog is a service animal
     href: '#asking-if-a-dog-is-a-service-animal'
   - text: Asking a service animal to leave
@@ -80,21 +76,21 @@ Generally, service animals are allowed to be with their person, even in places t
 - Schools 
 - Hotels
 
-## Housing
+### Housing
 
 The ADA applies to certain types of housing, including: 
 
 - Public and private universities.
 - Public housing programs run by state, county, and city governments.
 
-### {% include document.html %} Other laws apply to housing. 
+#### {% include document.html %} Other laws apply to housing. 
 You may have additional responsibilities in housing under other laws, such as under the Fair Housing Act. 
 
 The **Fair Housing Act** applies to almost all types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, housing may have different laws about service animals. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo). 
 
-## Airplanes
+### Airplanes
 
-### {% include document.html %} Other laws apply to airplanes. 
+#### {% include document.html %} Other laws apply to airplanes. 
 
 The Air Carrier Access Act protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
@@ -129,7 +125,7 @@ A business or state or local government can ask a service animal to leave if:
 
 A business or state or local government does not need to allow a service animal if:
 
-- The dog’s presence would “fundamentally alter” the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
+- The dog’s presence would <span class="usa-tooltip" data-position="top" title="Top">fundamentally alter</span> the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
 
 ## State and local laws
 <ul style="list-style: none;">
