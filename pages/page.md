@@ -42,7 +42,7 @@ The purpose of the sections below is to help people with disabilities, businesse
 
 ## Service animals are
 
-<ul style="list-style: none;">
+<ul class="icon-list" aria-labeledby="service-animals-are">
   <li>{% include yes.html %} Dogs.</li>
   <li>{% include yes.html %} Any breed and any size of dog.</li>
   <li>{% include yes.html %} Trained to perform a task related to a person’s disability.</li>
@@ -50,7 +50,7 @@ The purpose of the sections below is to help people with disabilities, businesse
 
 ## Service animals are not
 
-<ul style="list-style: none;">
+<ul class="icon-list" aria-labeledby="service-animals-are-not">
   <li>{% include no.html %} Emotional support or comfort dogs, because emotional support and comfort dogs are not trained to perform a task related to a person’s disability (<a href="#examples-of-service-animal-tasks">read examples of service animal tasks</a>).</li>
   <li>{% include no.html %} Required to be certified or go through a professional training program.</li>
   <li>{% include no.html %} Required to wear a vest or other ID that indicates they’re a service dog.</li>
@@ -97,19 +97,19 @@ The Air Carrier Access Act protects the rights of people with disabilities in ai
 ## Asking if a dog is a service animal
 If you are working at a business or state or local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask only two questions** to find out: 
 
-<ul style="list-style: none;">
+<ul class="icon-list" aria-labeledby="asking-if-a-dog-is-a-service-animal">
   <li>{% include yes.html %} Is the dog a service animal required because of a disability?</li>
   <li>{% include yes.html %} What work or task has the dog been trained to perform?</li>
 </ul>
 
 ### You are *not* allowed to:
-<ul style="list-style: none;">
+<ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
   <li>{% include no.html %} Request any documentation that the dog is registered, licensed, or certified as a service animal.</li>
 </ul>
 
 Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal. 
 
-<ul style="list-style: none;">
+<ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
   <li>{% include no.html %} Require that the dog demonstrate its task, or inquire about the nature of the person’s disability.</li>
 </ul>  
 
@@ -128,7 +128,7 @@ A business or state or local government does not need to allow a service animal 
 - The dog’s presence would <span class="usa-tooltip" data-position="top" title="Top">fundamentally alter</span> the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
 
 ## State and local laws
-<ul style="list-style: none;">
+<ul class="icon-list" aria-labeledby="state-and-local-laws">
   <li>{% include yes.html %} Service dogs are subject to local licensing and vaccination laws that apply to all other dogs.</li>
   <li>{% include yes.html %} Local governments may offer voluntary service dog registration programs.</li>
   <li>{% include no.html %} Local governments can’t require certification or registration of service dogs.</li>
