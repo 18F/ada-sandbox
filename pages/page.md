@@ -125,7 +125,11 @@ A business or state or local government can ask a service animal to leave if:
 
 A business or state or local government does not need to allow a service animal if:
 
-- The dog’s presence would "fundamentally alter" the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
+- The dog’s presence would _fundamentally alter_ the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
+
+### Example of _fundamentally alter_
+
+A zoo can keep service dogs out of areas where the presence of a dog would be disruptive or cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
 
 ## State and local laws
 <ul class="icon-list" aria-labeledby="state-and-local-laws">
