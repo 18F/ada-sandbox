@@ -21,7 +21,7 @@ primary:
   - text: Technical Assistance
     href: /serviceanimals/
   - text: Cases and Settlements
-    href: https://18f.gsa.gov
+    href:
     external: true
   - text: Topics
     links:
