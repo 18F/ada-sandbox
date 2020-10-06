@@ -14,12 +14,14 @@ sidenav-breakpoint: 'desktop'
 #   links: primary
 #
 primary:
+  - text: The Basics
+    href: /serviceanimals/
   - text: Laws and Regulations
     href: 
   - text: Design Standards
     href: 
   - text: Technical Assistance
-    href: /serviceanimals/
+    href: 
   - text: Cases and Settlements
     href:
     external: true
