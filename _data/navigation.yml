@@ -14,8 +14,6 @@ sidenav-breakpoint: 'desktop'
 #   links: primary
 #
 primary:
-  - text: The Basics
-    href: /serviceanimals/
   - text: Laws and Regulations
     href: 
   - text: Design Standards
@@ -25,24 +23,28 @@ primary:
   - text: Cases and Settlements
     href:
     external: true
-  - text: Topics
+  - text: The Basics
     links:
-      - text: Olmstead
+      - text: Service Animals
+        href: /serviceanimals/
+      - text: Parking
         href: 
-      - text: Accessible Technology
+      - text: Effective Communication
         href: 
-      - text: Barrier-free Healthcare
+      - text: Testing Accommodations
         href: 
-      - text: Criminal Justice
+      - text: Wheelchairs and Mobility
         href: 
-      - text: Employment
+      - text: Child Care
         href: 
-      - text: HIV and AIDS
+      - text: Housing
         href: 
-      - text: Project Civic Access
+      - text: Ramps
         href:  
-      - text: Emergency Mangement
+      - text: Websites
         href:    
+      - text: Education
+        href:   
 
 secondary:
   - text: File a complaint
