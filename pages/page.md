@@ -56,7 +56,7 @@ Generally, state and local governments, businesses that are open to the public, 
 
 <details>
     <summary>More about the difference between emotional support animals and service animals</summary>
-      The ADA makes a distinction between service animals and emotional support animals. If the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal. If the dog's mere presence provides comfort, it is not a service animal under the ADA.
+      The ADA makes a distinction between psychiatric service animals and emotional support animals. If the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal. If the dog's mere presence provides comfort, it is not a service animal under the ADA.
 </details>
 
 ## Examples of service animal tasks
