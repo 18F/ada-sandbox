@@ -24,7 +24,7 @@ primary:
     href:
     external: true
   - text: The Basics
-    links:
+    links: 
       - text: Service Animals
         href: /serviceanimals/
       - text: Parking

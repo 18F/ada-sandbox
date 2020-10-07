@@ -56,7 +56,7 @@ Generally, state and local governments, businesses that are open to the public, 
 
 <details>
     <summary>More about the difference between emotional support animals and service animals</summary>
-      The ADA makes a distinction between psychiatric service animals and emotional support animals. If the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, that would qualify as a service animal. However, if the dog's mere presence provides comfort, that would not be considered a service animal under the ADA.
+      The ADA makes a distinction between service animals and emotional support animals. If the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal. If the dog's mere presence provides comfort, it is not a service animal under the ADA.
 </details>
 
 ## Examples of service animal tasks
@@ -124,7 +124,7 @@ A business or state or local government does not need to allow a service animal 
 
 <details>
     <summary>What does <em>fundamentally alter</em> mean?</summary>
-      A zoo can keep service dogs out of areas where the presence of a dog would be disruptive or cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
+       In most settings, a service animal will not fundamentally alter the situation. But in some situations, a service dog could change the nature of the service or program. For example, a zoo can keep service dogs out of areas where the presence of a dog would cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
 </details>
 
 ## Asking a service animal to leave
@@ -136,7 +136,7 @@ A business or state or local government can ask a service animal to leave if:
 
 <details>
     <summary>What does <em>out of control</em> mean?</summary>
-    A service dog is out of control if it will not stay with its person, and the person cannot keep the dog from wandering. A service dog is also out of control if it barks continuously and won't stop.
+    A service dog is out of control if it wanders away from its person without the person being able to restrain or control the dog's wandering. A service dog is also out of control if it barks continuously and won't stop.
 
     If a service dog barks just once, or when provoked, it is <em>not</em> out of control.
 </details>
