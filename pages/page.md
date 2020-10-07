@@ -121,7 +121,7 @@ A business or state or local government does not need to allow a service animal 
 
 <details>
     <summary>What does <em>fundamentally alter</em> mean?</summary>
-       In most settings, a service animal will not fundamentally alter the situation. But in some situations, a service dog could change the nature of the service or program. For example, a zoo can keep service dogs out of areas where the presence of a dog would cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
+       In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, a zoo can keep service dogs out of areas where the presence of a dog would cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
 </details>
 
 ## Asking a service animal to leave
