@@ -108,13 +108,10 @@ If you are working at a business or state or local government facility and it is
 ### You are *not* allowed to:
 <ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
   <li>{% include no.html %} Request any documentation that the dog is registered, licensed, or certified as a service animal.</li>
-</ul>
-
-Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal. 
-
-<ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
   <li>{% include no.html %} Require that the dog demonstrate its task, or inquire about the nature of the person’s disability.</li>
 </ul>  
+
+Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal. 
 
 ## When a service animal can be kept out
 
