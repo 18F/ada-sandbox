@@ -36,7 +36,7 @@ subnav:
 
 The ADA explains what businesses and state and local governments must do to make sure that they do not discriminate against a person with a disability who uses a service animal.
 
-Generally, state and local governments, businesses that are open to the public, and non-profit organizations must allow service animals to go most places where the public can go, even if they have a "no pets" policy.
+Generally, state and local governments as well as businesses and non-profit organizations that are open to the public must allow service animals to go most places where the public can go, even if they have a "no pets" policy.
 
 ## Service animals are
 
@@ -56,7 +56,7 @@ Generally, state and local governments, businesses that are open to the public, 
 
 <details>
     <summary>More about the difference between emotional support animals and service animals</summary>
-      The ADA makes a distinction between psychiatric service animals and emotional support animals. If the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal. If the dog's mere presence provides comfort, it is not a service animal under the ADA.
+      If the dog's mere presence provides comfort, it is not a service animal under the ADA. But if the dog is trained to perform a task related to a person's disability, it is a service animal under the ADA. For example, if the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal.
 </details>
 
 ## Examples of service animal tasks
@@ -89,7 +89,7 @@ The ADA applies to certain types of housing, including:
 #### {% include document.html %} Other laws apply to housing. 
 You may have additional responsibilities in housing under other laws, such as under the Fair Housing Act. 
 
-The **Fair Housing Act** applies to almost all types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, housing may have different laws about service animals. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo). 
+The **Fair Housing Act** applies to almost all types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, housing may have different laws about service animals. The U.S. Department of Housing and Urban Development is responsible for administering the Fair Housing Act. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo). 
 
 ### Airplanes
 
@@ -98,7 +98,7 @@ The **Fair Housing Act** applies to almost all types of housing, both public and
 The Air Carrier Access Act protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
 ## Asking if a dog is a service animal
-If you are working at a business or state or local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask only two questions** to find out: 
+If you are working at a business or state or local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**: 
 
 <ul class="icon-list" aria-labeledby="asking-if-a-dog-is-a-service-animal">
   <li>{% include yes.html %} Is the dog a service animal required because of a disability?</li>
@@ -121,7 +121,7 @@ A business or state or local government does not need to allow a service animal 
 
 <details>
     <summary>What does <em>fundamentally alter</em> mean?</summary>
-       In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, a zoo can keep service dogs out of areas where the presence of a dog would cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
+       In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, a zoo can keep service dogs out of areas where the presence of a dog would cause zoo animals to become aggressive or agitated. Service dogs cannot be restricted from other areas of the zoo.
 </details>
 
 ## Asking a service animal to leave
@@ -133,9 +133,7 @@ A business or state or local government can ask a service animal to leave if:
 
 <details>
     <summary>What does <em>out of control</em> mean?</summary>
-    A service dog is out of control if it wanders away from its person without the person being able to restrain or control the dog's wandering. A service dog is also out of control if it barks continuously and won't stop.
-
-    If a service dog barks just once, or when provoked, it is <em>not</em> out of control.
+      Learn more in <a href="https://www.ada.gov/regs2010/service_animal_qa.html#exc">Question 27 in <cite>FAQs about Service Animals and the ADA</cite></a>.
 </details>
 
 ## State and local laws
