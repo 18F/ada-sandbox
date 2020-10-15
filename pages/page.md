@@ -49,10 +49,15 @@ Generally, state and local governments, businesses that are open to the public, 
 ## Service animals are not
 
 <ul class="icon-list" aria-labeledby="service-animals-are-not">
-  <li>{% include no.html %} Emotional support or comfort dogs, because emotional support and comfort dogs are not trained to perform a task related to a person’s disability (<a href="#examples-of-service-animal-tasks">read examples of service animal tasks</a>).</li>
   <li>{% include no.html %} Required to be certified or go through a professional training program.</li>
   <li>{% include no.html %} Required to wear a vest or other ID that indicates they’re a service dog.</li>
+  <li>{% include no.html %} Emotional support or comfort dogs, because emotional support and comfort dogs are not trained to perform a task related to a person’s disability.</li>
 </ul>
+
+<details>
+    <summary>More about the difference between emotional support animals and service animals</summary>
+      The ADA makes a distinction between psychiatric service animals and emotional support animals. If the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal. If the dog's mere presence provides comfort, it is not a service animal under the ADA.
+</details>
 
 ## Examples of service animal tasks
 
@@ -103,14 +108,21 @@ If you are working at a business or state or local government facility and it is
 ### You are *not* allowed to:
 <ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
   <li>{% include no.html %} Request any documentation that the dog is registered, licensed, or certified as a service animal.</li>
-</ul>
-
-Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal. 
-
-<ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
   <li>{% include no.html %} Require that the dog demonstrate its task, or inquire about the nature of the person’s disability.</li>
 </ul>  
 
+Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal. 
+
+## When a service animal can be kept out
+
+A business or state or local government does not need to allow a service animal if:
+
+- The dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
+
+<details>
+    <summary>What does <em>fundamentally alter</em> mean?</summary>
+       In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, a zoo can keep service dogs out of areas where the presence of a dog would cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
+</details>
 
 ## Asking a service animal to leave
 
@@ -119,15 +131,12 @@ A business or state or local government can ask a service animal to leave if:
 - The dog is not housebroken.
 - The dog is out of control, and the person cannot get the dog under control.
 
-## When a service animal can be kept out
+<details>
+    <summary>What does <em>out of control</em> mean?</summary>
+    A service dog is out of control if it wanders away from its person without the person being able to restrain or control the dog's wandering. A service dog is also out of control if it barks continuously and won't stop.
 
-A business or state or local government does not need to allow a service animal if:
-
-- The dog’s presence would _fundamentally alter_ the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
-
-### Example of _fundamentally alter_
-
-A zoo can keep service dogs out of areas where the presence of a dog would be disruptive or cause zoo animals to become agitated. Service dogs cannot be restricted from other areas of the zoo.
+    If a service dog barks just once, or when provoked, it is <em>not</em> out of control.
+</details>
 
 ## State and local laws
 <ul class="icon-list" aria-labeledby="state-and-local-laws">
