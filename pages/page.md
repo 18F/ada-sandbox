@@ -36,7 +36,7 @@ subnav:
 
 The ADA explains what businesses and state and local governments must do to make sure that they do not discriminate against a person with a disability who uses a service animal.
 
-Generally, state and local governments, as well as businesses and non-profit organizations that are open to the public, must allow service animals to go most places where the public can go, even if they have a "no pets" policy.
+Generally, businesses and non-profits that are open to the public as well as state and local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
 
 ## Service animals are
 
