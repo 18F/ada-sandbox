@@ -7,15 +7,15 @@ layout: home
 hero:
   image: /assets/uswds/img/hero.png
   callout:
-    alt: "Hero callout:"
-    text: Bring attention to a current priority
+    alt: "This is a test site."
+    text: It is meant for user research.
   button:
     href: /callout/
     text: Call to action
   link:
     text: Link to more about that priority
     href: /link/
-  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
+  content: The information on this site is intended for user research only. It is not intended to provide legal guidance, nor is it an official website of the Department of Justice.
 
 tagline: A tagline highlights your approach.
 intro: |
@@ -53,4 +53,4 @@ graphics:
 Everything up to this point [should help people](<javascript:void(0);>) understand your agency or project: who you are, your goal or mission, and how you approach it. Use this section to encourage them to act. Describe why they should get in touch here, and use an active verb on the button below. “Get in touch,” “Learn more,” and so on.
 {:.usa-intro }
 
-[Call to action](#){: .usa-button.usa-button--big }
+<!--[Call to action](#){: .usa-button.usa-button--big }-->
