@@ -98,9 +98,11 @@ The **Fair Housing Act** applies to almost all types of housing, both public and
 The Air Carrier Access Act protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
 ## Asking if a dog is a service animal
-If you are working at a business or state or local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**: 
+If you are working at a business or state or local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**.
 
-<ul class="icon-list" aria-labeledby="asking-if-a-dog-is-a-service-animal">
+### You may ask:
+
+<ul class="icon-list" aria-labeledby="you-may-ask">
   <li>{% include yes.html %} Is the dog a service animal required because of a disability?</li>
   <li>{% include yes.html %} What work or task has the dog been trained to perform?</li>
 </ul>
