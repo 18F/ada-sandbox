@@ -139,11 +139,17 @@ A business or state or local government can ask a service animal to leave if:
 </details>
 
 ## State and local laws
+
+### Local governments can:
 <ul class="icon-list" aria-labeledby="state-and-local-laws">
-  <li>{% include yes.html %} Service dogs are subject to local licensing and vaccination laws that apply to all other dogs.</li>
-  <li>{% include yes.html %} Local governments may offer voluntary service dog registration programs.</li>
-  <li>{% include no.html %} Local governments can’t require certification or registration of service dogs.</li>
-  <li>{% include no.html %} Local governments can’t ban a service dog based on its breed.</li>
+  <li>{% include yes.html %} Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated.</li>
+  <li>{% include yes.html %} Offer <em>voluntary</em> service dog registration programs.</li>
+</ul>
+
+### Local governments can't:
+<ul class="icon-list" aria-labeledby="state-and-local-laws">
+  <li>{% include no.html %} Require certification or registration of service dogs.</li>
+  <li>{% include no.html %} Ban a service dog based on its breed.</li>
 </ul>
 
 ## Learn more about the ADA and service animals
