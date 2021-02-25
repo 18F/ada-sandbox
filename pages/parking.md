@@ -1,5 +1,5 @@
 ---
-title: Accessible Parking Spaces
+title: Accessible parking spaces
 description: This is a documentation page.
 permalink: /parking/
 
