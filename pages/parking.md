@@ -49,7 +49,7 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
         <li>{% include yes.html %} and level with the parking space it serves</li>
       </ul>
     </div>
-    <div class="tablet:grid-col-6">aisles image</div>
+    <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/aisle-parking.png' | relative_url }}" alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" /></div>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ Accessible parking spaces must be provided for cars and vans.
         <li>{% include yes.html %} have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
       </ul>
     </div>
-      <div class="tablet:grid-col-6">car accessible image</div>
+      <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/car-accessible.png' | relative_url }}" alt="Accessible parking spaces with 60-inch minimum width access aisle for cars" /></div>
   </div>
 </div>
 
@@ -93,7 +93,7 @@ Accessible parking spaces must be provided for cars and vans.
         <li>{% include yes.html %} second sign - stating that the space is van accessible</li>
       </ul>
     </div>
-      <div class="tablet:grid-col-6">van accessible image</div>
+      <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/van-accessible.png' | relative_url }}" alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" /></div>
   </div>
 </div>
 
@@ -179,7 +179,7 @@ Where parking spaces are limited to 4 or fewer spaces:
         <li>{% include yes.html %} anyone can park in that space</li>
       </ul>
     </div>
-    <div class="tablet:grid-col-6">special parking image</div>
+    <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/limited-spaces.png' | relative_url }}" alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" /></div>
   </div>
 </div>
 
