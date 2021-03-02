@@ -38,7 +38,7 @@ The ADA explains what businesses and state and local governments must do to make
 
 Generally, businesses and non-profits that are open to the public as well as state and local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
 
-## Service animals are
+## Service Animals Are
 
 <ul class="icon-list" aria-labeledby="service-animals-are">
   <li>{% include yes.html %} Dogs.</li>
@@ -46,7 +46,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
   <li>{% include yes.html %} Trained to perform a task related to a person’s disability.</li>
 </ul>
 
-## Service animals are not
+## Service Animals Are Not
 
 <ul class="icon-list" aria-labeledby="service-animals-are-not">
   <li>{% include no.html %} Required to be certified or go through a professional training program.</li>
@@ -59,7 +59,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
       If the dog's mere presence provides comfort, it is not a service animal under the ADA. But if the dog is trained to perform a task related to a person's disability, it is a service animal under the ADA. For example, if the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal.
 </details>
 
-## Examples of service animal tasks
+## Examples Of Service Animal Tasks
 
 A person with diabetes may have a dog that is **trained to nudge the person when their blood sugar reaches high or low levels**.
 
@@ -69,7 +69,7 @@ A person with PTSD may have a dog that is **trained to lick their hand to alert 
 
 A person who has epilepsy may have a dog that is **trained to detect the onset of a seizure and then help the person remain safe during the seizure**.
 
-## Where service animals can go
+## Where Service Animals Can Go
 
 Generally, service animals are allowed to be with their person, even in places that don’t allow pets. For example, service dogs can go into: 
 
@@ -86,28 +86,28 @@ The ADA applies to certain types of housing, including:
 - Public and private universities.
 - Public housing programs run by state, county, and city governments.
 
-#### {% include document.html %} Other laws apply to housing. 
+#### {% include document.html %} Other Laws Apply To Housing 
 You may have additional responsibilities in housing under other laws, such as under the Fair Housing Act. 
 
 The **Fair Housing Act** applies to almost all types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, housing may have different laws about service animals. The U.S. Department of Housing and Urban Development is responsible for administering the Fair Housing Act. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo). 
 
 ### Airplanes
 
-#### {% include document.html %} Other laws apply to airplanes. 
+#### {% include document.html %} Other Laws Apply To Airplanes 
 
 The Air Carrier Access Act protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
-## Asking if a dog is a service animal
+## Asking If A Dog Is A Service Animal
 If you are working at a business or state or local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**.
 
-### You may ask:
+### You May Ask:
 
 <ul class="icon-list" aria-labeledby="you-may-ask">
   <li>{% include yes.html %} Is the dog a service animal required because of a disability?</li>
   <li>{% include yes.html %} What work or task has the dog been trained to perform?</li>
 </ul>
 
-### You are *not* allowed to:
+### You Are **Not** Allowed To:
 <ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
   <li>{% include no.html %} Request any documentation that the dog is registered, licensed, or certified as a service animal.</li>
   <li>{% include no.html %} Require that the dog demonstrate its task, or inquire about the nature of the person’s disability.</li>
@@ -115,7 +115,7 @@ If you are working at a business or state or local government facility and it is
 
 Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal. 
 
-## When a service animal can be kept out
+## When A Service Animal Can Be Kept Out
 
 A business or state or local government does not need to allow a service animal if:
 
@@ -126,7 +126,7 @@ A business or state or local government does not need to allow a service animal 
        In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, a zoo can keep service dogs out of areas where the presence of a dog would cause zoo animals to become aggressive or agitated. Service dogs cannot be restricted from other areas of the zoo.
 </details>
 
-## Asking a service animal to leave
+## Asking A Service Animal To Leave
 
 A business or state or local government can ask a service animal to leave if: 
 
@@ -138,21 +138,21 @@ A business or state or local government can ask a service animal to leave if:
       Learn more in <a href="https://www.ada.gov/regs2010/service_animal_qa.html#exc">Question 27 in <cite>FAQs about Service Animals and the ADA</cite></a>.
 </details>
 
-## State and local laws
+## State And Local Laws
 
-### Local governments can:
+### Local Governments Can:
 <ul class="icon-list" aria-labeledby="state-and-local-laws">
   <li>{% include yes.html %} Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated.</li>
   <li>{% include yes.html %} Offer <em>voluntary</em> service dog registration programs.</li>
 </ul>
 
-### Local governments can't:
+### Local Governments Can't:
 <ul class="icon-list" aria-labeledby="state-and-local-laws">
   <li>{% include no.html %} Require certification or registration of service dogs.</li>
   <li>{% include no.html %} Ban a service dog based on its breed.</li>
 </ul>
 
-## Learn more about the ADA and service animals
+## Learn More About The ADA And Service Animals
 The following technical assistance documents provide more helpful information about service animals: 
 
 - [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
