@@ -124,7 +124,7 @@ A business or state or local government does not need to allow a service animal 
 - The dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
 
 <details>
-    <summary>What does <em>fundamentally alter</em> mean?</summary>
+    <summary><dfn><i>Fundamentally alter</i></dfn> defined</summary>
        In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, it may be appropriate to keep a service animal out of an operating room or burn unit where the animal’s presence could compromise a sterile environment. But in general, service animals cannot be restricted from other areas of the hospital where patients or members of the public can go.
 </details>
 
@@ -136,7 +136,7 @@ A business or state or local government can ask a service animal to leave if:
 - The dog is out of control, and the person cannot get the dog under control.
 
 <details>
-    <summary>What does <em>out of control</em> mean?</summary>
+    <summary><dfn><i>Out of control</i></dfn> defined</summary>
       Learn more in <a href="https://www.ada.gov/regs2010/service_animal_qa.html#exc">Question 27 in <cite>FAQs about Service Animals and the ADA</cite></a>.
 </details>
 
