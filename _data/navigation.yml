@@ -53,6 +53,8 @@ secondary:
     href:
 
 docs:
+  - text: Introduction to the ADA
+    href: /intro-to-ada/
   - text: Service animals
     href: /serviceanimals/
 

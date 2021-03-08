@@ -7,24 +7,10 @@ layout: post
 sidenav: docs
 sticky_sidenav: true
 subnav:
-  - text: Service animals are
-    href: '#service-animals-are'
-  - text: Service animals are not
-    href: '#service-animals-are-not'
-  - text: Examples of service animal tasks
-    href: '#examples-of-service-animal-tasks'
-  - text: Where service animals can go
-    href: '#where-service-animals-can-go'
-  - text: Asking if a dog is a service animal
-    href: '#asking-if-a-dog-is-a-service-animal'
-  - text: Asking a service animal to leave
-    href: '#asking-a-service-animal-to-leave'
-  - text: When a service animal can be kept out
-    href: '#when-a-service-animal-can-be-kept-out'
-  - text: State and local laws
-    href: '#state-and-local-laws'
-  - text: Learn more about the ADA and service animals
-    href: '#learn-more-about-the-ada-and-service-animals'                                      
+  - text: The ADA protects people with disabilities
+    href: '#the-ada-protects-people-with-disabilities'
+  - text: The ADA prohibits disability discrimination in many areas of life
+    href: '#the-ada-prohibits-disability-discrimination-in-many-areas-of-life'                                  
 ---
 
 <div class="usa-alert usa-alert--info">
@@ -148,8 +134,83 @@ The ADA applies to state and local governments even if:
 
 **Applies to:** public transit systems. 
 
-**Note:** Private transit systems are also covered by the ADA. For more information, see the section “Businesses that are open to the public” below. 
+**Note:** Private transit systems are also covered by the ADA. For more information, see the section [Businesses that are open to the public](#businesses-that-are-open-to-the-public-title-iii) below. 
 
 **General requirement:** public transit systems must provide people with disabilities an equal opportunity to benefit from their services. 
 
 **If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta). 
+
+### Businesses that are open to the public (Title III)
+
+**Applies to:**
+- Businesses and nonprofits serving the public
+  <br>Examples of businesses and nonprofits include: 
+  - Restaurants
+  - Hotels 
+  - Retail stores
+  - Movie theaters
+  - Private schools (including housing)
+  - Doctors’ offices
+  - Day care centers
+  - Gyms 
+  - Organizations offering courses or examinations
+- Privately operated transit
+  <br>Examples of privately operated transit include:
+  - Taxis
+  - Intercity and charter buses
+  - Hotel shuttles
+  - Airport shuttles
+
+- Commercial facilities (need only comply with requirements [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)) 
+  <br>Examples of commercial facilities include:
+  - Office buildings
+  - Warehouses
+  - Factories
+
+**General requirement:** Businesses must provide people with disabilities an equal opportunity to access the goods or services that they offer.
+
+**If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+
+<details><summary>More about businesses and nonprofits’ ADA responsibilities</summary>
+<p>The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: <a href="https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm">ADA Primer for Small Businesses</a>.</p>
+</details>
+
+### Telecommunications (Title IV)
+
+**Applies to:** telecommunication companies. 
+
+**General requirement:** Telephone companies must provide services to allow callers using voice telephones and callers with hearing and speech disabilities to communicate with each other. Telecommunications companies must also provide closed captioning of federally funded public service announcements. 
+
+**If you have a complaint:** [Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission](https://www.fcc.gov/general/trs-points-contact-complaints).
+
+<details><summary>Some areas of life are not covered by the ADA or are covered by other laws</summary>
+<p>Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.</p>
+
+<ul>
+  <li>While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.</li>
+
+  <ul><li>If you have a complaint about disability discrimination under the Fair Housing Act: <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">File a complaint with the Department of Housing and Urban Development</a>.</li></ul>
+
+  <li>Disability discrimination during air travel is prohibited by the Air Carriers Access Act.</li>
+  <ul><li>If you have a complaint about disability discrimination during air travel: <a href="https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm">File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection</a>.</li></ul>
+
+  <li>While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.</li>
+</ul>
+</details>
+
+### Other important requirements (Title V)
+
+The ADA also includes other requirements for how to implement the law. 
+
+Examples of these requirements include:
+- Prohibiting retaliation against a person who has claimed their rights under the ADA.
+- Stating that a person with a disability is not required to accept an aid or accommodation if they do not want to. 
+- Authorizing courts to award attorneys’ fees to the winning party in a lawsuit under the ADA.
+- Directing certain federal agencies to issue guidance explaining the law. 
+
+### Federal agencies’ roles 
+
+Many federal agencies are responsible for enforcing the ADA and other laws that prohibit discrimination on the basis of disability. These agencies receive complaints, conduct investigations, and issue regulations and guidance to explain the law.
+Learn more about these agencies and the laws that they implement:  
+- [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
+- A Guide to Federal Disability Rights Laws 
