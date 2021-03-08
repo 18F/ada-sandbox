@@ -213,4 +213,4 @@ Examples of these requirements include:
 Many federal agencies are responsible for enforcing the ADA and other laws that prohibit discrimination on the basis of disability. These agencies receive complaints, conduct investigations, and issue regulations and guidance to explain the law.
 Learn more about these agencies and the laws that they implement:  
 - [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
-- A Guide to Federal Disability Rights Laws 
+- [A Guide to Federal Disability Rights Laws](https://www.ada.gov/cguide.htm) 
