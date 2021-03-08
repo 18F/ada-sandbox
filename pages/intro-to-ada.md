@@ -15,8 +15,8 @@ subnav:
 
 <div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
-    <h3 class="usa-alert__heading">This is a test site.</h3>
-    <p class="usa-alert__text">This webpage is a prototype meant for user research. It is not intended to provide legal guidance.</p>
+    <h3 class="usa-alert__heading">This is a test site. Do not rely on the information provided.</h3>
+    <p class="usa-alert__text">This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance.</p>
   </div>
 </div>
 
