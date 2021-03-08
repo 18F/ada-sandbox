@@ -100,15 +100,56 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 ### Employment (Title I)
 
-Applies to: employers that have 15 or more employees.
+**Applies to:** employers that have 15 or more employees.
 
-Note: When serving the public, all businesses, regardless of their size, must still provide people with disabilities an equal opportunity to access the business’s goods and services. Read more about these requirements under the section for      Businesses that are open to the public below.
+**Note:** When serving the public, all businesses, regardless of their size, must still provide people with disabilities an equal opportunity to access the business’s goods and services. Read more about these requirements under the section for Businesses that are open to the public below.
 
-General requirement: Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities. 
+**General requirement:** Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities. 
 
-If you have a complaint: File a Charge of Discrimination with the Equal Employment Opportunity Commission.
+**If you have a complaint:** [File a Charge of Discrimination with the Equal Employment Opportunity Commission](https://www.eeoc.gov/filing-charge-discrimination).
 
->More about employers’ responsibilities:
+<details>
+  <summary>More about employers’ responsibilities</summary>
 
-The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the Equal Employment Opportunity Commission’s guidance for employers. 
+<p>The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the <a href="https://www.eeoc.gov/disability-discrimination">Equal Employment Opportunity Commission’s guidance for employers.</a></p>
 
+</details>  
+
+### State and local government services (Title II)
+
+**Applies to:** all services, programs, and activities of state and local governments. 
+
+Examples of state and local government activities include:  
+- Public education 
+- Employment
+- Transportation
+- Recreation
+- Health care
+- Social services
+- Courts
+- Voting
+- Emergency services
+- Town meetings
+
+The ADA applies to state and local governments even if:
+- the state or local government is small or
+- they receive money from the federal government.
+
+**General requirement:** State and local governments must provide people with disabilities an equal opportunity to benefit from all of their programs, services, and activities. 
+
+**If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+
+<details>
+  <summary>More about state and local governments’ ADA responsibilities</summary>
+  <p>The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the <a href="https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html">State and Local Government Primer</a>.</p>
+</details>
+
+### Public transit (Title II)
+
+**Applies to:** public transit systems. 
+
+**Note:** Private transit systems are also covered by the ADA. For more information, see the section “Businesses that are open to the public” below. 
+
+**General requirement:** public transit systems must provide people with disabilities an equal opportunity to benefit from their services. 
+
+**If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta). 
