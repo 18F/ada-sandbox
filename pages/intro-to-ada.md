@@ -47,12 +47,12 @@ A person with a disability is someone who:
 If a person meets this definition, the ADA protects them. Because the ADA is a law, and not a benefit program, you do not need to apply for coverage. 
  
 <details>
-  <summary><em>Substantially limits</em> defined</summary>
+  <summary><dfn><i>Substantially limits</i></dfn> defined</summary>
   <p>The term “substantially limits” is defined broadly and is not meant to be a demanding standard. An example of a condition that is not substantial is a mild allergy to pollen.</p> 
 </details>  
  
 <details>
-<summary><em>Major life activities</em> defined</summary>
+<summary><dfn><i>Major life activities</i></dfn> defined</summary>
  
 <p>Major life activities are the kind of actions that you do every day, including your body’s own internal processes. There are many major life activities in addition to the examples listed here. Some examples include:</p>
  
