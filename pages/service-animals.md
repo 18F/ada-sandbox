@@ -87,7 +87,7 @@ The ADA applies to certain types of housing, including:
 - Public housing programs run by state, county, and city governments
 - Emergency shelters
 
-{% include document.html %} **Other laws apply to housing**
+#### {% include document.html %} Other laws apply to housing
 
 You may have additional responsibilities in housing under other laws, such as under the Fair Housing Act. 
 
@@ -95,7 +95,7 @@ The **Fair Housing Act** applies to almost all types of housing, both public and
 
 ### Airplanes
 
-{% include document.html %} **Other laws apply to airplanes** 
+#### {% include document.html %} Other laws apply to airplanes
 
 The Air Carrier Access Act, not the ADA, protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
