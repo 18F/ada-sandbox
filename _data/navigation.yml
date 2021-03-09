@@ -15,54 +15,56 @@ sidenav-breakpoint: 'desktop'
 #
 primary:
   - text: Laws and Regulations
-    href: 
+    href:
   - text: Design Standards
-    href: 
+    href:
   - text: Technical Assistance
-    href: 
+    href:
   - text: Cases and Settlements
     href:
     external: true
   - text: The Basics
-    links: 
+    links:
       - text: Service Animals
         href: /serviceanimals/
       - text: Parking
-        href: 
+        href: /parking/
       - text: Effective Communication
-        href: 
+        href:
       - text: Testing Accommodations
-        href: 
+        href:
       - text: Wheelchairs and Mobility
-        href: 
+        href:
       - text: Child Care
-        href: 
+        href:
       - text: Housing
-        href: 
+        href:
       - text: Ramps
-        href:  
+        href:
       - text: Websites
-        href:    
+        href:
       - text: Education
-        href:   
+        href:
 
 secondary:
   - text: File a complaint
-    href: 
+    href:
   - text: Contact us
     href:
 
 docs:
   - text: Service animals
     href: /serviceanimals/
+  - text: Parking
+    href: /parking/
 
 footer:
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.
   - text: Laws and Regulations
-    href: 
+    href:
   - text: Design Standards
-    href: 
+    href:
   - text: Technical Assistance
     href:
   - text: Cases and Settlements
