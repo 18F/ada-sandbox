@@ -43,7 +43,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
 <ul class="icon-list" aria-labeledby="service-animals-are">
   <li>{% include yes.html %} Dogs</li>
   <li>{% include yes.html %} Any breed and any size of dog</li>
-  <li>{% include yes.html %} Trained to perform a task related to a person’s disability</li>
+  <li>{% include yes.html %} Trained to perform a task for a person that's directly related to the person’s disability</li>
 </ul>
 
 ### Service animals are not:
@@ -51,7 +51,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
 <ul class="icon-list" aria-labeledby="service-animals-are-not">
   <li>{% include no.html %} Required to be certified or go through a professional training program</li>
   <li>{% include no.html %} Required to wear a vest or other ID that indicates they’re a service dog</li>
-  <li>{% include no.html %} Emotional support or comfort dogs, because emotional support and comfort dogs are not trained to perform a task related to a person’s disability</li>
+  <li>{% include no.html %} Emotional support or comfort dogs, because providing emotional support or comfort is not work or a task related to a person’s disability</li>
 </ul>
 
 <details>
@@ -61,7 +61,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
 
 ## Examples of Service Animal Tasks
 
-A person with diabetes may have a dog that is **trained to nudge the person when their blood sugar reaches high or low levels**.
+A person who uses a wheelchair may have a dog that is **trained to retrieve objects for them**.
 
 A person with depression may have a dog that is **trained to perform a task to remind them to take their medication**.
 
@@ -83,13 +83,11 @@ Generally, service animals are allowed to be with their person, even in places t
 
 The ADA applies to certain types of housing, including: 
 
-- Public and private universities
+- Housing at public and private universities
 - Public housing programs run by state, county, and city governments
 - Emergency shelters
 
 #### {% include document.html %} Other laws apply to housing
-
-You may have additional responsibilities in housing under other laws, such as under the Fair Housing Act. 
 
 The **Fair Housing Act** applies to almost all types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, there may be different rules that apply when a resident or applicant with a disability uses a service animal or other animal to assist with their disability. The U.S. Department of Housing and Urban Development is responsible for administering the Fair Housing Act. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo). 
 
@@ -119,14 +117,14 @@ Because service animals are not required to wear vests, a dog that is wearing a 
 
 ## When a Service Animal Can Be Kept Out
 
-A business or state or local government does not need to allow a service animal if:
-
-- The dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public. Learn more about what this means in [FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html#exc). 
+A business or state or local government does not need to allow a service animal if the dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public. 
 
 <details>
     <summary><dfn><i>Fundamentally alter</i></dfn> defined</summary>
        In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, it may be appropriate to keep a service animal out of an operating room or burn unit where the animal’s presence could compromise a sterile environment. But in general, service animals cannot be restricted from other areas of the hospital where patients or members of the public can go.
 </details>
+
+Learn more about when a service animal can be kept out in [questions 23-26 in FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html).
 
 ## Asking a Service Animal to Leave
 
