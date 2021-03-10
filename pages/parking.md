@@ -69,7 +69,7 @@ Accessible parking spaces must be provided for cars and vans.
       <ul class="icon-list" aria-labeledby="car-accessible-spaces-must">
         <li>{% include yes.html %} Be at least 96 inches wide</li>
         <li>{% include yes.html %} Have an access aisle at least 60 inches wide</li>
-        <li>{% include yes.html %} Have no more than a 2% slope in all directions</li>
+        <li>{% include yes.html %} Have no more than a two percent slope in all directions</li>
         <li>{% include yes.html %} Have a surface that is firm, stable and slip-resistant</li>
         <li>{% include yes.html %} Have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
       </ul>
