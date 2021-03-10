@@ -26,13 +26,13 @@ subnav:
 
 When state or local governments, businesses and nonprofit organizations provide customer or employee parking in parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
 
-Accessible parking spaces are different then traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
+Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
 
 ## Features
 
 ### Location
 
-In parking lots or garages accessible parking spaces must be located on the shortest accessible route to the accessible entrance. An accessible route is the path a person with a disability takes to enter and move through a building or facility.
+In parking lots or garages, accessible parking spaces must be located on the shortest accessible route to the accessible entrance. An accessible route is the path a person with a disability takes to enter and move through a building or facility.
 
 ### Access Aisle
 
