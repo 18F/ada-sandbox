@@ -28,7 +28,7 @@ When state or local governments, businesses and nonprofit organizations provide 
 
 Accessible parking spaces are different then traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
 
-## Features of Accessible Parking Spaces
+## Features
 
 ### Location
 
