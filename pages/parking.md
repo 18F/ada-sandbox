@@ -38,7 +38,7 @@ In parking lots or garages accessible parking spaces must be located on the shor
 
 Accessible parking spaces must have access aisles. Access aisles provide a designated area for people who use wheelchairs or other mobility devices to get in and out of their car or van. Mobility devices allow people with disabilities to move about independently. Devices include but are not limited to walkers, canes, crutches, braces, manual or power wheelchairs, Segways and electric scooters.
 
-#### Access Aisles Must Be:
+#### Access aisles must be:
 
 <div class="grid-container">
   <div class="grid-row">
