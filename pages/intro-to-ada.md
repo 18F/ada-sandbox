@@ -22,7 +22,7 @@ subnav:
 
 The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities. The ADA prohibits discrimination on the basis of disability just as other civil rights laws prohibit discrimination on the basis of race, color, sex, national origin, age, and religion. It guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs. 
 
-## The ADA protects people with disabilities 
+## The ADA Protects People with Disabilities 
 
 A person with a disability is someone who:
  
@@ -33,12 +33,12 @@ A person with a disability is someone who:
 If a person meets this definition, the ADA protects them. Because the ADA is a law, and not a benefit program, you do not need to apply for coverage. 
  
 <details>
-  <summary><dfn><i>Substantially limits</i></dfn> defined</summary>
+  <summary>What does <dfn><i>substantially limits</i></dfn> mean?</summary>
   <p>The term “substantially limits” is defined broadly and is not meant to be a demanding standard. An example of a condition that is not substantial is a mild allergy to pollen.</p> 
 </details>  
  
 <details>
-<summary><dfn><i>Major life activities</i></dfn> defined</summary>
+<summary>What does <dfn><i>major life activities</i></dfn> mean?</summary>
  
 <p>Major life activities are the kind of actions that you do every day, including your body’s own internal processes. There are many major life activities in addition to the examples listed here. Some examples include:</p>
  
@@ -52,7 +52,7 @@ If a person meets this definition, the ADA protects them. Because the ADA is a l
 </ul>
 </details>
 
-### Examples of disabilities
+### Examples of Disabilities
  
 There are many disabilities, and the ADA does not list all of them. Some disabilities may be visible, and some are not. Some examples of disabilities include:
  
@@ -70,7 +70,7 @@ There are many disabilities, and the ADA does not list all of them. Some disabil
 - Major depressive disorder
 - Traumatic brain injury
 
-## The ADA prohibits disability discrimination in many areas of life
+## The ADA Prohibits Disability Discrimination in Many Areas of Life
 
 To prevent discrimination against people with disabilities, the ADA sets out requirements that apply to most of the organizations and situations you encounter in everyday life. Employers, state and local governments, businesses that are open to the public, commercial facilities, transportation, and telecommunications all have to follow the requirements of the ADA. 
 
@@ -101,7 +101,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 </details>  
 
-### State and local government services (Title II)
+### State and Local Government Services (Title II)
 
 **Applies to:** all services, programs, and activities of state and local governments. 
 
@@ -130,7 +130,7 @@ The ADA applies to state and local governments even if:
   <p>The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the <a href="https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html">State and Local Government Primer</a>.</p>
 </details>
 
-### Public transit (Title II)
+### Public Transit (Title II)
 
 **Applies to:** public transit systems. 
 
@@ -140,7 +140,7 @@ The ADA applies to state and local governments even if:
 
 **If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta). 
 
-### Businesses that are open to the public (Title III)
+### Businesses That Are Open to the Public (Title III)
 
 **Applies to:**
 - Businesses and nonprofits serving the public
@@ -198,7 +198,7 @@ The ADA applies to state and local governments even if:
 </ul>
 </details>
 
-### Other important requirements (Title V)
+### Other Important Requirements (Title V)
 
 The ADA also includes other requirements for how to implement the law. 
 
@@ -208,9 +208,10 @@ Examples of these requirements include:
 - Authorizing courts to award attorneys’ fees to the winning party in a lawsuit under the ADA.
 - Directing certain federal agencies to issue guidance explaining the law. 
 
-### Federal agencies’ roles 
+### Federal Agencies’ Roles 
 
 Many federal agencies are responsible for enforcing the ADA and other laws that prohibit discrimination on the basis of disability. These agencies receive complaints, conduct investigations, and issue regulations and guidance to explain the law.
+
 Learn more about these agencies and the laws that they implement:  
 - [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
 - [A Guide to Federal Disability Rights Laws](https://www.ada.gov/cguide.htm) 
