@@ -46,7 +46,7 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
       <ul class="icon-list" aria-labeledby="access-aisles-must-be">
         <li>{% include yes.html %} Marked (to discourage parking in them)</li>
         <li>{% include yes.html %} The same length as the space it serves</li>
-        <li>{% include yes.html %} And level with the parking space it serves</li>
+        <li>{% include yes.html %} Level with the parking space it serves</li>
       </ul>
     </div>
     <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/aisle-parking.png' | relative_url }}" alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" /></div>
@@ -55,7 +55,7 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
 
 Two parking spaces can share an access aisle (except in angled parking).
 
-Access aisle can be placed on either side of the parking space (except in angled parking).
+Access aisles can be placed on either side of the parking space (except in angled parking).
 
 ### Parking Spaces
 
