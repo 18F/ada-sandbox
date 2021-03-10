@@ -1,5 +1,5 @@
 ---
-title: Accessible parking spaces
+title: Accessible Parking Spaces
 description: This is a documentation page.
 permalink: /parking/
 
@@ -28,36 +28,36 @@ When state or local governments, businesses and nonprofit organizations provide 
 
 Accessible parking spaces are different then traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
 
-## Features of accessible parking spaces
+## Features of Accessible Parking Spaces
 
 ### Location
 
 In parking lots or garages accessible parking spaces must be located on the shortest accessible route to the accessible entrance. An accessible route is the path a person with a disability takes to enter and move through a building or facility.
 
-### Access aisle
+### Access Aisle
 
 Accessible parking spaces must have access aisles. Access aisles provide a designated area for people who use wheelchairs or other mobility devices to get in and out of their car or van. Mobility devices allow people with disabilities to move about independently. Devices include but are not limited to walkers, canes, crutches, braces, manual or power wheelchairs, Segways and electric scooters.
 
-#### Access aisles must be:
+#### Access Aisles Must Be:
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list" aria-labeledby="access-aisles-must-be">
-        <li>{% include yes.html %} marked (to discourage parking in them)</li>
-        <li>{% include yes.html %} the same length as the space it serves</li>
-        <li>{% include yes.html %} and level with the parking space it serves</li>
+        <li>{% include yes.html %} Marked (to discourage parking in them)</li>
+        <li>{% include yes.html %} The same length as the space it serves</li>
+        <li>{% include yes.html %} And level with the parking space it serves</li>
       </ul>
     </div>
     <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/aisle-parking.png' | relative_url }}" alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" /></div>
   </div>
 </div>
 
-Two (2) parking spaces can share an access aisle (except in angled parking).
+Two parking spaces can share an access aisle (except in angled parking).
 
 Access aisle can be placed on either side of the parking space (except in angled parking).
 
-### Parking spaces
+### Parking Spaces
 
 Accessible parking spaces must be provided for cars and vans.
 
@@ -67,11 +67,11 @@ Accessible parking spaces must be provided for cars and vans.
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list" aria-labeledby="car-accessible-spaces-must">
-        <li>{% include yes.html %} be at least 96 inches wide</li>
-        <li>{% include yes.html %} have an access aisle at least 60 inches wide</li>
-        <li>{% include yes.html %} have no more than a 2% slope in all directions</li>
-        <li>{% include yes.html %} have a surface that is firm, stable and slip-resistant</li>
-        <li>{% include yes.html %} have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
+        <li>{% include yes.html %} Be at least 96 inches wide</li>
+        <li>{% include yes.html %} Have an access aisle at least 60 inches wide</li>
+        <li>{% include yes.html %} Have no more than a 2% slope in all directions</li>
+        <li>{% include yes.html %} Have a surface that is firm, stable and slip-resistant</li>
+        <li>{% include yes.html %} Have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
       </ul>
     </div>
       <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/car-accessible.png' | relative_url }}" alt="Accessible parking spaces with 60-inch minimum width access aisle for cars" /></div>
@@ -84,20 +84,20 @@ Accessible parking spaces must be provided for cars and vans.
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list" aria-labeledby="van-accessible-spaces-must">
-        <li>{% include yes.html %} be at least 96 inches wide</li>
-        <li>{% include yes.html %} have an access aisle at least 96 inches wide</li>
-        <li>{% include yes.html %} have no more than a 2% slope in all directions</li>
-        <li>{% include yes.html %} have a surface that is firm, stable and slip-resistant</li>
-        <li>{% include yes.html %} have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
-        <li>{% include yes.html %} first sign - international symbol of accessibility</li>
-        <li>{% include yes.html %} second sign - stating that the space is van accessible</li>
+        <li>{% include yes.html %} Be at least 96 inches wide</li>
+        <li>{% include yes.html %} Have an access aisle at least 96 inches wide</li>
+        <li>{% include yes.html %} Have no more than a 2% slope in all directions</li>
+        <li>{% include yes.html %} Have a surface that is firm, stable and slip-resistant</li>
+        <li>{% include yes.html %} Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
+        <li>{% include yes.html %} First sign - international symbol of accessibility</li>
+        <li>{% include yes.html %} Second sign - stating that the space is van accessible</li>
       </ul>
     </div>
       <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/van-accessible.png' | relative_url }}" alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" /></div>
   </div>
 </div>
 
-## Calculating accessible parking spaces
+## Calculating Accessible Parking Spaces
 
 The number of accessible parking spaces must be considered separately for each parking facility, not based on the total number of parking spaces provided on a site.  
 
@@ -164,44 +164,44 @@ accessible parking spaces permitted.</th>
   </tbody>
 </table>
 
-## Special parking conditions
+## Special Parking Conditions
 
-### Limited parking
+### Limited Parking
 
-Where parking spaces are limited to 4 or fewer spaces:
+Where parking spaces are limited to four or fewer spaces:
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list" aria-labeledby="access-aisles-must-be">
-        <li>{% include yes.html %} one (1) van accessible parking space must be provided</li>
-        <li>{% include no.html %} not required to have a sign with the international symbol of accessibility</li>
-        <li>{% include yes.html %} anyone can park in that space</li>
+        <li>{% include yes.html %} One van accessible parking space must be provided</li>
+        <li>{% include no.html %} Not required to have a sign with the international symbol of accessibility</li>
+        <li>{% include yes.html %} Anyone can park in that space</li>
       </ul>
     </div>
     <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/limited-spaces.png' | relative_url }}" alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" /></div>
   </div>
 </div>
 
-### Parking at hospital facilities
+### Parking at Hospital Facilities
 
 
-#### Hospital outpatient facilities
+#### Hospital Outpatient Facilities
 
-{% include error.html %} ten percent (10%) of patient and visitor parking must be accessible
-
-
-#### Rehabilitation facilities
-
-{% include error.html %} twenty percent (20%) of patient and visitor parking must be accessible
+{% include error.html %} Ten percent of patient and visitor parking must be accessible
 
 
-#### Outpatient physical therapy facilities
+#### Rehabilitation Facilities
 
-{% include error.html %} twenty percent (20%) of patient and visitor parking must be accessible
+{% include error.html %} Twenty percent of patient and visitor parking must be accessible
 
 
-## Need more information about accessible parking
+#### Outpatient Physical Therapy Facilities
+
+{% include error.html %} Twenty percent of patient and visitor parking must be accessible
+
+
+## Learn More About the ADA and Accessible Parking
 You might find the links below helpful:
 
 - [ADA Update: Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.html)
