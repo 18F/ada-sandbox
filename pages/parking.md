@@ -9,12 +9,12 @@ sticky_sidenav: true
 subnav:
   - text: Features of Accessible Parking Spaces
     href: '#features-of-accessible-parking-spaces'
-  - text: Calculating accessible parking spaces
+  - text: Calculating Accessible Parking Spaces
     href: '#calculating-accessible-parking-spaces'
-  - text: Special parking conditions
+  - text: Special Parking Conditions
     href: '#special-parking-conditions'
-  - text: Need more information about accessible parking
-    href: '#need-more-information-about-accessible-parking'                                      
+  - text: Learn More About the ADA and Accessible Parking
+    href: '#learn-more-about-the-ada-and-accessible-parking'                                      
 ---
 
 <div class="usa-alert usa-alert--info">
