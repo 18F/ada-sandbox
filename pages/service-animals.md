@@ -121,7 +121,7 @@ Because service animals are not required to wear vests, a dog that is wearing a 
 A business or state or local government does not need to allow a service animal if the dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public. 
 
 <details>
-    <summary>What does <dfn><i>Fundamentally alter</i></dfn> mean?</summary>
+    <summary>What does <dfn><i>fundamentally alter</i></dfn> mean?</summary>
        In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, it may be appropriate to keep a service animal out of an operating room or burn unit where the animal’s presence could compromise a sterile environment. But in general, service animals cannot be restricted from other areas of the hospital where patients or members of the public can go.
 </details>
 
