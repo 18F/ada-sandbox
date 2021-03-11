@@ -24,6 +24,7 @@ subnav:
   - text: Learn More Bbout the ADA and Service Animals
     href: '#learn-more-about-the-ada-and-service-animals'                                      
 ---
+<a href="{{ '/intro-to-ada/#state-and-local-government-services-title-ii' | relative_url }}"><span class="usa-tag">Title II</span></a> <a href="{{ '/intro-to-ada/#businesses-that-are-open-to-the-public-title-iii' | relative_url }}"><span class="usa-tag">Title III</span></a>
 
 <div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
