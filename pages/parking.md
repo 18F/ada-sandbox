@@ -175,8 +175,8 @@ Where parking spaces are limited to four or fewer spaces:
     <div class="tablet:grid-col-6">
       <ul class="icon-list" aria-labeledby="access-aisles-must-be">
         <li>{% include yes.html %} One van accessible parking space must be provided</li>
-        <li>{% include no.html %} Not required to have a sign with the international symbol of accessibility</li>
         <li>{% include yes.html %} Anyone can park in that space</li>
+        <li>{% include no.html %} Not required to have a sign with the international symbol of accessibility</li>
       </ul>
     </div>
     <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/limited-spaces.png' | relative_url }}" alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" /></div>
