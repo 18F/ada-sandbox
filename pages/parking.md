@@ -7,7 +7,7 @@ layout: post
 sidenav: docs
 sticky_sidenav: true
 subnav:
-  - text: Features of Accessible Parking Spaces
+  - text: Features
     href: '#features-of-accessible-parking-spaces'
   - text: Calculating Accessible Parking Spaces
     href: '#calculating-accessible-parking-spaces'
