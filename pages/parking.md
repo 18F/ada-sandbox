@@ -89,8 +89,10 @@ Accessible parking spaces must be provided for cars and vans.
         <li>{% include yes.html %} Have no more than a two percent slope in all directions</li>
         <li>{% include yes.html %} Have a surface that is firm, stable and slip-resistant</li>
         <li>{% include yes.html %} Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
-        <li>{% include yes.html %} First sign - international symbol of accessibility</li>
-        <li>{% include yes.html %} Second sign - stating that the space is van accessible</li>
+        <ul class="icon-list">
+          <li>{% include yes.html %} First sign - international symbol of accessibility</li>
+          <li>{% include yes.html %} Second sign - stating that the space is van accessible</li>
+        </ul>
       </ul>
     </div>
       <div class="tablet:grid-col-6"><img src="{{ 'assets/img/project-images/van-accessible.png' | relative_url }}" alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" /></div>
