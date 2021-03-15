@@ -190,17 +190,17 @@ Where parking spaces are limited to four or fewer spaces:
 
 #### Hospital Outpatient Facilities
 
-{% include error.html %} Ten percent of patient and visitor parking must be accessible
+{% include error.html %} Ten percent of patient and visitor parking must be accessible.
 
 
 #### Rehabilitation Facilities
 
-{% include error.html %} Twenty percent of patient and visitor parking must be accessible
+{% include error.html %} Twenty percent of patient and visitor parking must be accessible.
 
 
 #### Outpatient Physical Therapy Facilities
 
-{% include error.html %} Twenty percent of patient and visitor parking must be accessible
+{% include error.html %} Twenty percent of patient and visitor parking must be accessible.
 
 
 ## Learn More About the ADA and Accessible Parking
