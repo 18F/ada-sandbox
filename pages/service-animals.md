@@ -159,4 +159,4 @@ The following technical assistance documents provide more helpful information ab
 - [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
 - [ADA Requirements: Service Animals](https://www.ada.gov/service_animals_2010.htm)
 
-Check out the [EEOC’s website](https://www.eeoc.gov/disability-discrimination) for information about businesses and state/local governments’ obligations to employees who use service animals. 
+Check out the [EEOC’s website](https://www.eeoc.gov/disability-discrimination) for information about businesses and state/local governments’ obligations to employees like those who use service animals. 
