@@ -13,12 +13,7 @@ subnav:
     href: '#the-ada-prohibits-disability-discrimination-in-many-areas-of-life'                                  
 ---
 
-<div class="usa-alert usa-alert--info">
-  <div class="usa-alert__body">
-    <h3 class="usa-alert__heading">This is a test site. Do not rely on the information provided.</h3>
-    <p class="usa-alert__text">This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance.</p>
-  </div>
-</div>
+{% include alert.html %}
 
 The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities. The ADA prohibits discrimination on the basis of disability just as other civil rights laws prohibit discrimination on the basis of race, color, sex, national origin, age, and religion. It guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs. 
 
@@ -186,16 +181,14 @@ The ADA applies to state and local governments even if:
 <details><summary>Some areas of life are not covered by the ADA or are covered by other laws</summary>
 <p>Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.</p>
 
-<ul>
-  <li>While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.</li>
+<p>While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.</p>
 
-  <ul><li>If you have a complaint about disability discrimination under the Fair Housing Act: <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">File a complaint with the Department of Housing and Urban Development</a>.</li></ul>
+<ul><li>If you have a complaint about disability discrimination under the Fair Housing Act: <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">File a complaint with the Department of Housing and Urban Development</a>.</li></ul>
 
-  <li>Disability discrimination during air travel is prohibited by the Air Carriers Access Act.</li>
-  <ul><li>If you have a complaint about disability discrimination during air travel: <a href="https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm">File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection</a>.</li></ul>
+<p>Disability discrimination during air travel is prohibited by the Air Carriers Access Act.</p>
+<ul><li>If you have a complaint about disability discrimination during air travel: <a href="https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm">File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection</a>.</li></ul>
 
-  <li>While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.</li>
-</ul>
+<p>While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.</p>
 </details>
 
 ### Other Important Requirements (Title V)

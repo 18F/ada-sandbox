@@ -26,12 +26,7 @@ subnav:
 ---
 {% include title-2.html %} {% include title-3.html %}
 
-<div class="usa-alert usa-alert--info">
-  <div class="usa-alert__body">
-    <h2 class="usa-alert__heading">This is a test site. Do not rely on the information provided.</h2>
-    <p class="usa-alert__text">This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance.</p>
-  </div>
-</div>
+{% include alert.html %}
 
 The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal.
 

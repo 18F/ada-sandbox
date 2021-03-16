@@ -19,12 +19,7 @@ subnav:
 
 {% include title-2.html %} {% include title-3.html %}
 
-<div class="usa-alert usa-alert--info">
-  <div class="usa-alert__body">
-    <h3 class="usa-alert__heading">This is a test site. Do not rely on the information provided.</h3>
-    <p class="usa-alert__text">This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance.</p>
-  </div>
-</div>
+{% include alert.html %}
 
 When state or local governments, businesses and nonprofit organizations provide customer or employee parking in parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
 
