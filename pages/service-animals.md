@@ -7,8 +7,8 @@ layout: post
 sidenav: docs
 sticky_sidenav: true
 subnav:
-  - text: Defining Service Animals
-    href: '#defining-service-animals'
+  - text: About Service Animals
+    href: '#about-service-animals'
   - text: Examples of Service Animal Tasks
     href: '#examples-of-service-animal-tasks'
   - text: Where Service Animals Can Go
@@ -33,11 +33,11 @@ subnav:
   </div>
 </div>
 
-The ADA explains what businesses and state and local governments must do to make sure that they do not discriminate against a person with a disability who uses a service animal.
+The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal.
 
-Generally, businesses and non-profits that are open to the public as well as state and local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
+Generally, businesses and non-profits that are open to the public as well as state/local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
 
-## Defining Service Animals
+## About Service Animals
 
 ### Service animals are:
 
@@ -99,7 +99,7 @@ The **Fair Housing Act** applies to almost all types of housing, both public and
 The Air Carrier Access Act, not the ADA, protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
 ## Asking if a Dog is a Service Animal
-If you are working at a business or state or local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**.
+If you are working at a business or state/local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**.
 
 ### You may ask:
 
@@ -129,7 +129,7 @@ Learn more about when a service animal can be kept out in [questions 23-26 in FA
 
 ## Asking a Service Animal to Leave
 
-A business or state or local government can ask a service animal to leave if: 
+A business or state/local government can ask a service animal to leave if: 
 
 - The dog is not housebroken.
 - The dog is out of control, and the person cannot get the dog under control.
@@ -158,3 +158,5 @@ The following technical assistance documents provide more helpful information ab
 
 - [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
 - [ADA Requirements: Service Animals](https://www.ada.gov/service_animals_2010.htm)
+
+Check out the [EEOC’s website](https://www.eeoc.gov/disability-discrimination) for information about businesses and state/local governments’ obligations to employees who use service animals. 
