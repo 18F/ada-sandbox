@@ -118,7 +118,7 @@ Because service animals are not required to wear vests, a dog that is wearing a 
 
 ## When a Service Animal Can Be Kept Out
 
-A business or state or local government does not need to allow a service animal if the dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public. 
+A business or state/local government does not need to allow a service animal if the dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public. 
 
 <details>
     <summary>What does <dfn><i>fundamentally alter</i></dfn> mean?</summary>
