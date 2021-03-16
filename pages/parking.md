@@ -45,7 +45,7 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="access-aisles-must-be">
+      <ul class="icon-list" aria-labelledby="access-aisles-must-be">
         <li>{% include yes.html %} Marked (to discourage parking in them)</li>
         <li>{% include yes.html %} The same length as the space it serves</li>
         <li>{% include yes.html %} Level with the parking space it serves</li>
@@ -68,7 +68,7 @@ Accessible parking spaces must be provided for cars and vans.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="car-accessible-spaces-must">
+      <ul class="icon-list" aria-labelledby="car-accessible-spaces-must">
         <li>{% include yes.html %} Be at least 96 inches wide</li>
         <li>{% include yes.html %} Have an access aisle at least 60 inches wide</li>
         <li>{% include yes.html %} Have no more than a two percent slope in all directions</li>
@@ -85,7 +85,7 @@ Accessible parking spaces must be provided for cars and vans.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="van-accessible-spaces-must">
+      <ul class="icon-list" aria-labelledby="van-accessible-spaces-must">
         <li>{% include yes.html %} Be at least 96 inches wide</li>
         <li>{% include yes.html %} Have an access aisle at least 96 inches wide</li>
         <li>{% include yes.html %} Have no more than a two percent slope in all directions</li>
@@ -177,7 +177,7 @@ Where parking spaces are limited to four or fewer spaces:
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="access-aisles-must-be">
+      <ul class="icon-list" aria-labelledby="access-aisles-must-be">
         <li>{% include yes.html %} One van accessible parking space must be provided</li>
         <li>{% include yes.html %} Anyone can park in that space</li>
         <li>{% include no.html %} Not required to have a sign with the international symbol of accessibility</li>

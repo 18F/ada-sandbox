@@ -28,7 +28,7 @@ subnav:
 
 <div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
-    <h3 class="usa-alert__heading">This is a test site. Do not rely on the information provided.</h3>
+    <h2 class="usa-alert__heading">This is a test site. Do not rely on the information provided.</h2>
     <p class="usa-alert__text">This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance.</p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
 
 ### Service animals are:
 
-<ul class="icon-list" aria-labeledby="service-animals-are">
+<ul class="icon-list" aria-labelledby="service-animals-are">
   <li>{% include yes.html %} Dogs</li>
   <li>{% include yes.html %} Any breed and any size of dog</li>
   <li>{% include yes.html %} Trained to perform a task for a person that's directly related to the person’s disability</li>
@@ -49,7 +49,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
 
 ### Service animals are not:
 
-<ul class="icon-list" aria-labeledby="service-animals-are-not">
+<ul class="icon-list" aria-labelledby="service-animals-are-not">
   <li>{% include no.html %} Required to be certified or go through a professional training program</li>
   <li>{% include no.html %} Required to wear a vest or other ID that indicates they’re a service dog</li>
   <li>{% include no.html %} Emotional support or comfort dogs, because providing emotional support or comfort is not work or a task related to a person’s disability</li>
@@ -103,13 +103,13 @@ If you are working at a business or state/local government facility and it is un
 
 ### You may ask:
 
-<ul class="icon-list" aria-labeledby="you-may-ask">
+<ul class="icon-list" aria-labelledby="you-may-ask">
   <li>{% include yes.html %} Is the dog a service animal required because of a disability?</li>
   <li>{% include yes.html %} What work or task has the dog been trained to perform?</li>
 </ul>
 
 ### You are _not_ allowed to:
-<ul class="icon-list" aria-labeledby="you-are-not-allowed-to">
+<ul class="icon-list" aria-labelledby="you-are-not-allowed-to">
   <li>{% include no.html %} Request any documentation that the dog is registered, licensed, or certified as a service animal</li>
   <li>{% include no.html %} Require that the dog demonstrate its task, or inquire about the nature of the person’s disability</li>
 </ul>  
@@ -142,13 +142,13 @@ A business or state/local government can ask a service animal to leave if:
 ## State and Local Laws
 
 ### Local governments can:
-<ul class="icon-list" aria-labeledby="state-and-local-laws">
+<ul class="icon-list" aria-labelledby="state-and-local-laws">
   <li>{% include yes.html %} Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated</li>
   <li>{% include yes.html %} Offer <em>voluntary</em> service dog registration programs</li>
 </ul>
 
 ### Local governments can't:
-<ul class="icon-list" aria-labeledby="state-and-local-laws">
+<ul class="icon-list" aria-labelledby="state-and-local-laws">
   <li>{% include no.html %} Require certification or registration of service dogs</li>
   <li>{% include no.html %} Ban a service dog based on its breed</li>
 </ul>
