@@ -9,18 +9,34 @@ sticky_sidenav: true
 subnav:
   - text: About Service Animals
     href: '#about-service-animals'
+  - text: Service animals are
+    href: '#service-animals-are'
+  - text: Service animals are not
+    href: '#service-animals-are-not'  
   - text: Examples of Service Animal Tasks
     href: '#examples-of-service-animal-tasks'
   - text: Where Service Animals Can Go
     href: '#where-service-animals-can-go'
+  - text: Housing
+    href: '#housing'
+  - text: Airplanes
+    href: '#airplanes'    
   - text: Asking if a Dog is a Service Animal
     href: '#asking-if-a-dog-is-a-service-animal'
+  - text: You may ask
+    href: '#you-may-ask'
+  - text: You are not allowed to
+    href: '#you-are-not-allowed-to'    
   - text: Asking a Service Animal to Leave
     href: '#asking-a-service-animal-to-leave'
   - text: When a Service Animal Can Be Kept Out
     href: '#when-a-service-animal-can-be-kept-out'
   - text: State and Local Laws
     href: '#state-and-local-laws'
+  - text: State/local governments can
+    href: '#statelocal-governments-can'
+  - text: State/local governments can't
+    href: '#statelocal-governments-cant'    
   - text: Learn More Bbout the ADA and Service Animals
     href: '#learn-more-about-the-ada-and-service-animals'                                      
 ---

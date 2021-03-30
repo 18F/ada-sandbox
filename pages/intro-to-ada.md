@@ -9,6 +9,22 @@ sticky_sidenav: true
 subnav:
   - text: The ADA protects people with disabilities
     href: '#the-ada-protects-people-with-disabilities'
+  - text: Examples of Disabilities
+    href: '#examples-of-disabilities'
+  - text: Employment (Title I)
+    href: '#employment-title-i'
+  - text: State and Local Government Services (Title II)
+    href: '#state-and-local-government-services-title-ii'
+  - text: Public Transit (Title II)
+    href: '#public-transit-title-ii'
+  - text: Businesses That Are Open to the Public (Title III)
+    href: '#businesses-that-are-open-to-the-public-title-iii'
+  - text: Telecommunications (Title IV)
+    href: '#telecommunications-title-iv'
+  - text: Other Important Requirements (Title V)
+    href: '#other-important-requirements-title-v'
+  - text: Federal Agencies’ Roles
+    href: '#federal-agencies-roles'          
   - text: The ADA prohibits disability discrimination in many areas of life
     href: '#the-ada-prohibits-disability-discrimination-in-many-areas-of-life'                                  
 ---
