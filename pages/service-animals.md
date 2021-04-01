@@ -89,7 +89,7 @@ The **Fair Housing Act** applies to many types of housing, both public and priva
 
 The Air Carrier Access Act, not the ADA, protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
-### {% include document.html %} Other rules apply in a job setting
+### {% include document.html %} Other rules apply to employment
 The [Equal Employment Opportunity Commission](https://www.eeoc.gov/disability-discrimination) (EEOC) is responsible for administering the ADA in employment settings.
 
 ## Asking if a Dog is a Service Animal
