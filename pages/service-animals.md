@@ -39,7 +39,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
 <ul class="icon-list" aria-labelledby="service-animals-are">
   <li>{% include yes.html %} Dogs</li>
   <li>{% include yes.html %} Any breed and any size of dog</li>
-  <li>{% include yes.html %} Trained to perform a task for a person that's directly related to the person’s disability</li>
+  <li>{% include yes.html %} Trained to perform a task directly related to a person’s disability</li>
 </ul>
 
 ### Service animals are not:
@@ -47,7 +47,7 @@ Generally, businesses and non-profits that are open to the public as well as sta
 <ul class="icon-list" aria-labelledby="service-animals-are-not">
   <li>{% include no.html %} Required to be certified or go through a professional training program</li>
   <li>{% include no.html %} Required to wear a vest or other ID that indicates they’re a service dog</li>
-  <li>{% include no.html %} Emotional support or comfort dogs, because providing emotional support or comfort is not work or a task related to a person’s disability</li>
+  <li>{% include no.html %} Emotional support or comfort dogs, because providing emotional support or comfort is not a task related to a person’s disability</li>
 </ul>
 
 <details>
@@ -83,11 +83,14 @@ The ADA also applies to certain types of housing, including:
 
 ### {% include document.html %} Other laws apply to housing
 
-The **Fair Housing Act** applies to almost all types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, there may be different rules that apply when a resident or applicant with a disability uses a service animal or other animal to assist with their disability. The U.S. Department of Housing and Urban Development is responsible for administering the Fair Housing Act. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo). 
+The **Fair Housing Act** applies to many types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, there may be different rules that apply when a resident or applicant with a disability uses a service animal or other animal to assist with their disability. The U.S. Department of Housing and Urban Development is responsible for administering the Fair Housing Act. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo). 
 
 ### {% include document.html %} Other laws apply to airplanes
 
 The Air Carrier Access Act, not the ADA, protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
+
+### {% include document.html %} Other rules apply in a job setting
+The [Equal Employment Opportunity Commission](https://www.eeoc.gov/disability-discrimination) (EEOC) is responsible for administering the ADA in employment settings.
 
 ## Asking if a Dog is a Service Animal
 If you are working at a business or state/local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**.
@@ -116,18 +119,18 @@ A business or state/local government does not need to allow a service animal if 
        In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, it may be appropriate to keep a service animal out of an operating room or burn unit where the animal’s presence could compromise a sterile environment. But in general, service animals cannot be restricted from other areas of the hospital where patients or members of the public can go.
 </details>
 
-Learn more about when a service animal can be kept out in [questions 23-26 in FAQs about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html).
+Learn more about when a service animal can be kept out in [questions 23-26 in FAQs about service animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html).
 
-## Asking a Service Animal to Leave
+## Asking Someone to Remove Their Service Animal
 
-A business or state/local government can ask a service animal to leave if: 
+A business or state/local government can ask someone to remove their service animal if: 
 
 - The dog is not housebroken.
 - The dog is out of control, and the person cannot get the dog under control.
 
 <details>
     <summary>What does <dfn><i>out of control</i></dfn> mean?</summary>
-      Learn more in <a href="https://www.ada.gov/regs2010/service_animal_qa.html#exc">Question 27 in <cite>FAQs about Service Animals and the ADA</cite></a>.
+      Learn more in <a href="https://www.ada.gov/regs2010/service_animal_qa.html#exc">question 27 in <cite>FAQs about service animals and the ADA</cite></a>.
 </details>
 
 ## State and Local Laws
@@ -149,5 +152,3 @@ The following technical assistance documents provide more helpful information ab
 
 - [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
 - [ADA Requirements: Service Animals](https://www.ada.gov/service_animals_2010.htm)
-
-Check out the [EEOC’s website](https://www.eeoc.gov/disability-discrimination) for information about businesses and state/local governments’ obligations to employees like those who use service animals. 
