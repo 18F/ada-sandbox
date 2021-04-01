@@ -21,7 +21,7 @@ subnav:
     href: '#when-a-service-animal-can-be-kept-out'
   - text: State and Local Laws
     href: '#state-and-local-laws'
-  - text: Learn More Bbout the ADA and Service Animals
+  - text: Learn More About the ADA and Service Animals
     href: '#learn-more-about-the-ada-and-service-animals'                                      
 ---
 {% include title-2.html %} {% include title-3.html %}
